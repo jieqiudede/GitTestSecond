@@ -4,4 +4,8 @@ from github.com edit
 
 the second edit
 
+<<<<<<< HEAD
 local edit
+=======
+next edit
+>>>>>>> 6567240a0cb17ab3dd88b6af465b56fcb58eb281
